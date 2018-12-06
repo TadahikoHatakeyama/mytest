@@ -1,14 +1,1 @@
-a
-b
-c
-d
-e2
-my-dev
-my-dev追加２
-My-dev3
-デザイン追加
-github上で修正
-github上で修正2
-朝追加
-本日朝最終
-あああ
+asa
